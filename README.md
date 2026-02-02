@@ -40,7 +40,7 @@ Make sure you have the following installed:
 **-----------------------------------------------------------------------------------**
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ollama-streamlit-chatbot.git
+git clone main.py
 cd ollama-streamlit-chatbot
 
 2️⃣ Create Virtual Environment (Recommended)
