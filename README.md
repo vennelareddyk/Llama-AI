@@ -40,8 +40,8 @@ Make sure you have the following installed:
 **-----------------------------------------------------------------------------------**
 
 1️⃣ Clone the Repository
-git clone main.py
-cd ollama-streamlit-chatbot
+git clone https://github.com/vennelareddyk/Llama-AI
+cd Llama-AI
 
 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
